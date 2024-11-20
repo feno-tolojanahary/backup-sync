@@ -1,0 +1,24 @@
+{
+  "name": "backup-sync",
+  "version": "1.0.0",
+  "description": "Backup tools for mongodb database into an S3 wasabi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feno-tolojanahary/backup-sync.git"
+  },
+  "keywords": [
+    "backup",
+    "mongodb",
+    "S3"
+  ],
+  "author": "Feno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feno-tolojanahary/backup-sync/issues"
+  },
+  "homepage": "https://github.com/feno-tolojanahary/backup-sync#readme"
+}
